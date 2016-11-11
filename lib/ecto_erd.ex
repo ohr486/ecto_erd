@@ -1,0 +1,2 @@
+defmodule EctoErd do
+end
